@@ -44,6 +44,8 @@
   - [Beginner level](#beginner-level-projects)
   - [Intermediate level](#intermediate-level-projects)
   - [Advanced level](#advance-level-projects)
+- [Full-stack with various technology stacks](#various-technolgy-stacks)
+
 
 ### Overview
 
@@ -1587,3 +1589,74 @@ This section contains hundreds of coding challenges that test your knowledge of 
         </td>
       </tr>    
   </table>
+
+### Various Technolgy Stacks
+
+> Typically, a full-stack developer often specializes in a specific stack,which is a combination of front-end,back-end,databases along with other related tools and frameworks.By specializing in a specific stack, developers can focus their learning efforts on mastering the technologies and frameworks within that stack. These examples of full-stack develpoment offers you a clear pathway.
+
+<h4>1.Building Web Applications with LAMP Stack</h4>
+
+>A LAMP stack is a bundle of four different software technologies that developers use to build websites and web applications. LAMP is an acronym for the operating system, Linux; the web server, Apache; the database server, MySQL; and the programming language, PHP. 
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://aws.amazon.com/what-is/lamp-stack/"> Get started with LAMP stack</a></td>
+        <td>
+        An overview of the LAMP stack and its significance in web development.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/linux-tutorial/">Linux Basics</a></td>
+        <td>
+        This link helps you to cover basic concepts of Linux such as Linux commands,directory and file management, man pages, file permissions,shells and more 
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://www.sumologic.com/blog/apache-web-server-introduction/">Importance Apache Web Server</a></td>
+        <td>
+        This gives you an in-depth overview of Apache Web Server, covering its importance, usage, and functionality.
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://ubuntu.com/tutorials/install-and-configure-apache#1-overview">Install and Configure Apache</a></td>
+        <td>
+        This link helps you to install Apache,create your own website,setting up the virtualhost configuration file and activating virtualhost file.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://dev.mysql.com/doc/mysql-getting-started/en/">Installing and Starting MySQL</a></td>
+        <td>
+        This documentation gives you a easiest way to install MySQL on Linux.along with other operating systems too. 
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://www.javatpoint.com/basic-mysql-commands-in-linux">Basic MySQL Commands in Linux</a></td>
+        <td>
+        This article helps you to master basic MySQL commands in Linux that you can use to do interaction with the database.
+        </td>
+      </tr>
+      <tr>
+        <td><a href="https://www.w3schools.com/php/default.asp">PHP</a></td>
+        <td>
+        PHP is a server-side scripting language used to handle server-side logic, process user input, interact with databases, and generate dynamic content for web pages.Learn PHP from beginner to advanced levels with this tutorial and reference covering all topics.
+        </td>
+      </tr>     
+      <tr>
+        <td><a href="https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&si=DBzaBOOQGmm9MT8r">Front end technology HTML,CSS and JavaScript</a></td>
+        <td>
+        For front-end development, HTML, CSS, and JavaScript are commonly used. These technologies handle the presentation layer of web applications, including the layout, design, and interactivity that users interact with in their web browsers.This playlist helps to start your learning journey of fron end development.
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://soshace.com/development-with-lamp-stack-illustrated-address-book-project/">Example project in LAMP stack</a></td>
+        <td>
+        Here is project to refer.This is blog on Development With LAMP Stack Illustrated Address Book Project
+        </td>   
+  </table>
+
+
+
