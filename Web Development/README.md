@@ -1772,7 +1772,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <tr>
         <td><a href="https://gist.github.com/onlurking/857b1b3a06f6b77c1bc411edb339e603">Ruby and Rails Study Roadmap</a></td>
         <td>
-         Here is a respository to check out the complete Ruby on Roadmap.
+         Here is a respository to check out the complete Ruby on Rails Roadmap.
         </td>   
       </tr> 
        <tr>
