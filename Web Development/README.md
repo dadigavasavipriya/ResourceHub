@@ -1669,11 +1669,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
 
 <<<<<<< HEAD
 >MEAN is a technology stack used for building full-stack applications. It's a combination of the following technologies.MongoDB — a document database
-, Express — a Node.js framework for building APIs , Angular — a front-end application framework , Node.js — a server-side JavaScript runtime environment
-=======
->MEAN is a technology stack used for building full-stack applications. It's a combination of the following technologies. 
-MongoDB-a document database, Express-a Node.js framework for building APIs , Angular-a front-end application framework , Node.js-a server-side JavaScript runtime environment
->>>>>>> 2dd65b02b9a7f577886a78876088d656d8e5ee19
+, Express — a Node.js framework for building APIs , Angular — a front-end application framework , Node.js — a server-side JavaScript runtime environment.
 
 <table width="100%">
       <tr>
