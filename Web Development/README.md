@@ -1594,13 +1594,10 @@ This section contains hundreds of coding challenges that test your knowledge of 
 
 > Typically, a full-stack developer often specializes in a specific stack,which is a combination of front-end,back-end,databases along with other related tools and frameworks.By specializing in a specific stack, developers can focus their learning efforts on mastering the technologies and frameworks within that stack. These examples of full-stack develpoment offers you a clear pathway.
 
-<h4>1.Building Web Applications with LAMP Stack</h4>
+<h4>Building Web Applications with LAMP Stack</h4>
 
 >A LAMP stack is a bundle of four different software technologies that developers use to build websites and web applications. LAMP is an acronym for the
-Linux-The operating system 
-Apache-The web server 
-MySQL-The database server
-PHP-The programming language
+ Linux-The operating system , Apache-The web server , MySQL-The database server , PHP-The programming language
 
 <table width="100%">
       <tr>
@@ -1670,11 +1667,8 @@ PHP-The programming language
 
 <h4>Creating Web Apps with MEAN Stack</h4>
 
->MEAN is a technology stack used for building full-stack applications. It's a combination of the following technologies
-MongoDB — a document database
-Express — a Node.js framework for building APIs
-Angular — a front-end application framework
-Node.js — a server-side JavaScript runtime environment
+>MEAN is a technology stack used for building full-stack applications. It's a combination of the following technologies.MongoDB — a document database
+, Express — a Node.js framework for building APIs , Angular — a front-end application framework , Node.js — a server-side JavaScript runtime environment
 
 <table width="100%">
       <tr>
@@ -1763,11 +1757,7 @@ Node.js — a server-side JavaScript runtime environment
 
 <h4>Creating Web Applications with Ruby on Rails</h4>
 
->Ruby on Rails is a server-side web application framework written in Ruby under the MIT License. Rails is a Model–View–Controller (MVC) framework. It provides default structures for a database, a web service, and web pages. In essence, Ruby on Rails is a full-stack framework for web development.    
-Ruby: The programming language used.
-Rails: The web application framework.
-SQLite/MySQL/PostgreSQL: Common databases used with Rails.
-JavaScript: For front-end interactions.
+>Ruby on Rails is a server-side web application framework written in Ruby under the MIT License. Rails is a Model–View–Controller (MVC) framework. It provides default structures for a database, a web service, and web pages. In essence, Ruby on Rails is a full-stack framework for web development. Ruby-The programming language used , Rails-The web application framework , SQLite/MySQL/PostgreSQL- Common databases used with Rails , JavaScript-For front-end interactions.
 
 <table width="100%">
       <tr>
@@ -1825,9 +1815,9 @@ JavaScript: For front-end interactions.
         <td><a href="https://optymize.io/blog/top-4-ruby-on-rails-projects-ideas-for-beginners-to-get-started/">Project Ideas for Beginners</a></td>
         <td>
           Top 4 Ruby On Rails Projects For Beginners
-              -The first classic exercise is to build a blog using RoR. ...
-              -Build a simple product catalogue and shopping cart using RoR. ...
-              -Creating an object-oriented quiz game using RoR. ...
+              -The first classic exercise is to build a blog using RoR.
+              -Build a simple product catalogue and shopping cart using RoR.
+              -Creating an object-oriented quiz game using RoR.
               -Creating a Twitter or Reddit bot using RoR.
          </td>   
       </tr> 
@@ -2057,12 +2047,7 @@ JavaScript: For front-end interactions.
 
 <h4> Developing Web Apps with MERN Stack</h4>
 
-> The MERN stack is an open source–centric collection of technologies that uses JavaScript for both the browser and server sides of a web application. MERN is an acronym for the four technologies that form the stack: MongoDB, Express, React, and Node. js
-
-MongoDB – A NoSQL database that deals with data.
-Express – A framework for NodeJS and handles GET, PUT, POST, and DELETE functions.
-React – A JavaScript library for building User Interfaces, building single-page applications.
-NodeJS – An open-source server environment.
+> The MERN stack is an open source–centric collection of technologies that uses JavaScript for both the browser and server sides of a web application. MERN is an acronym for the four technologies that form the stack: MongoDB, Express, React, and Node.js. MongoDB – A NoSQL database that deals with data , Express – A framework for NodeJS and handles GET, PUT, POST, and DELETE functions , React – A JavaScript library for building User Interfaces, building single-page applications , NodeJS – An open-source server environment.
 
 <table width="100%">
       <tr>
