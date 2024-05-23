@@ -1637,7 +1637,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <tr>
         <td><a href="https://dev.mysql.com/doc/mysql-getting-started/en/">Installing and Starting MySQL</a></td>
         <td>
-        This documentation gives you a easiest way to install MySQL on Linux.along with other operating systems too. 
+        This documentation gives you a easiest way to install MySQL on Linux along with other operating systems too. 
         </td>
       </tr>  
       <tr>
@@ -1655,19 +1655,19 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <tr>
         <td><a href="https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&si=DBzaBOOQGmm9MT8r">Front end technology HTML,CSS and JavaScript</a></td>
         <td>
-        For front-end development, HTML, CSS, and JavaScript are commonly used. These technologies handle the presentation layer of web applications, including the layout, design, and interactivity that users interact with in their web browsers.This playlist helps to start your learning journey of fron end development.
+        For front-end development, HTML, CSS, and JavaScript are commonly used. These technologies handle the presentation layer of web applications, including the layout, design, and interactivity that users interact with in their web browsers.This playlist helps to start your learning journey of front end development.
         </td>
       </tr>  
       <tr>
         <td><a href="https://soshace.com/development-with-lamp-stack-illustrated-address-book-project/">Example project in LAMP stack</a></td>
         <td>
-        Here is project to refer.This is blog on Development With LAMP Stack Illustrated Address Book Project
+        Here is project to refer.This is blog on development with LAMP Stack illustrating Address Book Project
         </td>   
   </table>
 
 <h4>Creating Web Apps with MEAN Stack</h4>
 
->MEAN is a technology stack used for building full-stack applications. It's a combination of the following technologies.MongoDB — a document database
+>MEAN is a technology stack used for building full-stack applications. It's a combination of the following technologies MongoDB — a document database
 , Express — a Node.js framework for building APIs , Angular — a front-end application framework , Node.js — a server-side JavaScript runtime environment.
 
 <table width="100%">
@@ -1765,14 +1765,14 @@ This section contains hundreds of coding challenges that test your knowledge of 
         <th>Description</th>
       </tr>
       <tr>
-        <td><a href="https://www.javatpoint.com/ruby-on-rails-introduction"> Introduction to Ruby on Rails</a></td>
+        <td><a href="https://www.geeksforgeeks.org/ruby-on-rails-introduction/"> Introduction to Ruby on Rails</a></td>
         <td>
-         Learn more about What is Ruby ion Rails along it's features,advantages and disadvantages.
+         Learn more about What is Ruby on Rails along it's features,advantages and disadvantages.
       </tr>
       <tr>
         <td><a href="https://gist.github.com/onlurking/857b1b3a06f6b77c1bc411edb339e603">Ruby and Rails Study Roadmap</a></td>
         <td>
-         Here is a respository to check out the complete ruby and rails study raodmap.
+         Here is a respository to check out the complete Ruby on Roadmap.
         </td>   
       </tr> 
        <tr>
@@ -1841,13 +1841,13 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <tr>
         <td><a href="https://www.browserstack.com/guide/web-development-in-python-guide"> Introduction to Python web development</a></td>
         <td>
-           This guide gives you a complete info on why python for web development along with the raod mao to completely guide you on this python web development through  different framework,libraries etc.
+           This guide gives you a complete info on why python for web development completely guide you on this python web development through  different framework,libraries etc.
          </td>
       </tr>
       <tr>
         <td><a href="https://github.com/HHHMHA/django-roadmap">Django Roadmap</a></td>
         <td>
-         Here is a respository to check out the complete Django raodmap.
+         Here is a respository to check out the complete Django roadmap.
         </td>   
       </tr> 
        <tr>
@@ -1940,7 +1940,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
         </td>
       </tr>  
       <tr>
-        <td><a href="https://youtu.be/35EQXmHKZYs?si=jFyGqr61JfOe5CrN">React JS + Spring Boot REST API Example Tutorial</a></td>
+        <td><a href="https://youtu.be/5RA5NpxbioI?si=QWZOeP8Z6Umz7PBH">React JS + Spring Boot REST API Example Tutorial</a></td>
         <td>
          In this tutorial, you will create a "single page application" using React as frontend and spring boot as backend. 
          1. springboot-backend (server) – To Develop REST API
@@ -1956,13 +1956,13 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <tr>
         <td><a href="https://youtu.be/5PdEmeopJVQ?si=va3dfMqJj3UMDNBL">Full Stack Development with Java Spring Boot, React, and MongoDB – Full Course</a></td>
         <td>
-          In this full stack development course video, you will learn how to create an application using MongoDb for the database, Java and Spring Boot for the backend, and React for the frontend.
+          In this full stack development course video, you will learn how to create an application using MongoDB for the database, Java and Spring Boot for the backend, and React for the frontend.
         </td>   
       </tr> 
       <tr>
         <td><a href="https://github.com/knowledgefactory4u/springboot-mongodb-react-crud">Sample Project Reference</a></td>
         <td>
-         This is a git hub repository you can check out to work with springboot-mongodb-react-crud++
+         This is a git hub repository you can check out to work with springboot-mongodb-react-crud.
         </td>   
       </tr> 
       <tr>
