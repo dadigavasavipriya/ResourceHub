@@ -1672,7 +1672,9 @@ PHP-The programming language
 
 >MEAN is a technology stack used for building full-stack applications. It's a combination of the following technologies
 MongoDB — a document database
+
 Express — a Node.js framework for building APIs
+
 Angular — a front-end application framework
 Node.js — a server-side JavaScript runtime environment
 
